@@ -12,3 +12,4 @@ else:
         print('var2 is high')
     else:
         print('var3 is high')
+
